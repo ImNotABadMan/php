@@ -1,0 +1,20 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.php	(revision c2362f8f00245ca8b02e25cc211c5af2fb953f9f)
++++ index.php	(revision 7c5c8c7c9b4bfa2b28491b564a4de0375e7f3e75)
+@@ -3,6 +3,8 @@
+  * @Author: anchen
+  * @Date:   2017-12-29 19:36:28
+  * @Last Modified by:   anchen
+- * @Last Modified time: 2017-12-29 19:37:04
++ * @Last Modified time: 2017-12-29 19:57:03
+  */
+-echo "one code master";
+\ No newline at end of file
++echo "one code master";
++echo "<br />two";
++echo "hhh";
+\ No newline at end of file
