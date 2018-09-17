@@ -13,3 +13,5 @@ var_dump("abc");
 //
 
 echo 123;
+
+var_dump(123);
