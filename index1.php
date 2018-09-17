@@ -17,3 +17,5 @@ var_dump(123);
 echo 123;
 
 var_dump(123);
+
+echo 111;
