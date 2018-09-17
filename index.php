@@ -8,3 +8,5 @@
 echo "one code master";
 
 var_dump(123);
+
+var_dump(12);
