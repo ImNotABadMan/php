@@ -9,6 +9,7 @@ var_dump(123);
 //
 //
 var_dump("abc");
+var_dump(123);
 //
 //
 
